@@ -1,0 +1,23 @@
+.brand-logo img{
+	width: 60%;
+	height: auto;
+}
+
+nav {
+	background: grey;
+}
+
+li {
+	display: inline;
+	margin-left: 10px;
+}
+
+a {
+	color: yellow;
+}
+
+.row img {
+	max-width: 250px;
+	height: auto;
+	margin-top: 50px;
+}
